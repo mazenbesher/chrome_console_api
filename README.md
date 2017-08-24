@@ -1,0 +1,1 @@
+Examples for `console` chrome API
